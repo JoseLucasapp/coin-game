@@ -85,7 +85,7 @@ div.inside img {
     display: none;
 }
 
-div.animation {
+div.coin-side {
     display: none;
     height: var(--external-size);
     width: 20px;
