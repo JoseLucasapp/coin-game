@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Volkorn-regular';
+    src: url('./fonts/Vollkorn-Regular.ttf');
+}
+
+body {
+    font-family: 'Volkorn-regular';
+}
